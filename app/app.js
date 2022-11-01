@@ -1,3 +1,5 @@
+// TODO: refactor code; decide whether to export/import functions/ fix bugs/ add additional styling / add cypress tests / add unit tests / add a server / include a DB
+
 document.addEventListener('DOMContentLoaded', () => {
     const grid = document.querySelector('.grid')
     let squares = Array.from(document.querySelectorAll('.grid div'))
