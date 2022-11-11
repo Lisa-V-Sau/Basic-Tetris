@@ -26,7 +26,7 @@ Railyway is our deployment service.
 For more information on running this refer to the documents here:
 https://docs.railway.app/getting-started 
 ```
-basic-tetriscom-production.up.railway.app↗
+https://basic-tetriscom-production.up.railway.app/
 ```
 ### MongoDB Clusters
 As we are also using Mongo DB for our database, we will also need to generate a cluster so that it can be used as the env variable within Railway.
